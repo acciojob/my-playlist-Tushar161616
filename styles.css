@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+.heading{
+	text-align:center;
+	font-weight:900;
+	font-family:arial;
+}
+.bod{
+	border: 2px solid black;
+	border-radius:7px;
+	background-color:rgb(255,255,255);
+}
+body{
+	background-color:rgb(204,204,204);
+	
+}
+.player_one{
+	width:510px;
+}
+.player_two{
+	width:510px;
+}
+
+li{
+    text-decoration-line: none;
+	list-style-type: none;
+	line-height:1.5;
+}
+a{
+	color:black;
+}
+#box2{
+	padding:20px 20px;
+	margin:50px;
+	margin-top:0px;
+}
+#box1{
+	margin:15px 15px 0px 15px;
+	padding: 0px 0px 0px 0px;
+}
+.mah2{
+	margin-top:0px;
+	text-align:center;
+}
